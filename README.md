@@ -1,4 +1,6 @@
-# Algorithm-Problem-Solving-Lab 🧠
+# Algorithm Problem Solving Lab
+**Student Roll Number:** 241B709
+
 
 This repository contains lab work for **Algorithm Problem Solving** using **Python**.
 
